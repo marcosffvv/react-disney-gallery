@@ -1,0 +1,12 @@
+.navbar{
+  padding: 30px;
+}
+
+.link{
+  padding: 10px 20px 10px 20px;
+  border: 1px solid black;
+  background-color: rgb(255, 234, 238);
+}
+.link:hover{
+  background-color: brown;
+}

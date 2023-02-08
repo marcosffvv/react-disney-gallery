@@ -1,0 +1,25 @@
+.home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &--title{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    padding: 10px;
+    border: 12px double black;
+    background-color: rgb(255, 234, 238);
+  }
+  &--slogan{
+    display: flex;
+    justify-content: center;
+  }
+  &--img{
+    display: flex;
+    padding-top: 70px;
+    padding-bottom: 15px;
+    width: 300px;
+  }
+}

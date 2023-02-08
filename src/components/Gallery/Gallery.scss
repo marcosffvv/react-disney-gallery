@@ -1,0 +1,9 @@
+.gallery{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 50px;
+  border: 10px double rgb(255, 75, 105);
+}

@@ -1,0 +1,18 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 50px;
+
+  img{
+    padding-bottom: 20px;
+    width: 200px;
+    object-fit: cover;
+  }
+  figcaption{
+    font-weight: bold;
+  }
+
+}
